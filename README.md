@@ -2,7 +2,7 @@
 
 A Python visualization tool for designing and testing robot search algorithms for the University Rover Challenge (URC) competition.
 
-![Visualization](images/Visualization.png)
+![Visualization](images/Visualization.PNG)
 
 ## Overview
 
