@@ -2,6 +2,8 @@
 
 A Python visualization tool for designing and testing robot search algorithms for the University Rover Challenge (URC) competition.
 
+![Visualization](images/Visualization.png)
+
 ## Overview
 
 In the URC competition, you're given approximate target coordinates (within a 10m radius) and must search that area. This tool helps you:
